@@ -1,10 +1,11 @@
 # Roblox Creator Documentation
 
-This repository holds source code for the creator documentation at [create.roblox.com/docs](https://create.roblox.com/docs).
+This repository holds source code for the creator documentation at [create.roblox.com/docs]
+(https://create.roblox.com/docs).
 
 **Note**: Currently, the repository has guides, tutorials, educational content, and a read-only version of the Engine API reference.
 
-If you're unfamiliar with the GitHub contribution process, see [About pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) and the following video.
+If you're unfamiliar with the GitHub contribution process, see [About pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) and the following video
 
 <https://github.com/Roblox/creator-docs/assets/84365734/b5d10495-837a-454f-9d96-e01ed44e32c7>
 
